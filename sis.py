@@ -9,7 +9,7 @@ headers = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:57.0) 
 # with open('test.torrent','wb') as f:
 #     f.write(res.content)
 # print(res.text)
-
+#这边改了，Github怎么同步
 if __name__ == "__main__":
     domain_url = 'http://www.sis001.com/forum/'
     torrentdir = "torrent/"
